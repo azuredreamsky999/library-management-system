@@ -11,4 +11,4 @@ docker build -t library-management .
 docker run -p 8080:8080 library-management
 
 --------------------------------------------
-Postman Sample API Queries will be added by latest EOD Friday 13/12/2024. 
+Please refer to Book.postman_collection.json for Postman query
